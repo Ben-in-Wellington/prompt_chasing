@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Challenge</title>
+</head>
+<body>
+    <p id="content">{content_to_be_replaced_by_our_script}</p>
+</body>
+</html>
