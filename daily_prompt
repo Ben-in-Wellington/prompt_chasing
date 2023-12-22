@@ -3,7 +3,7 @@
     <title>Challenge</title>
 </head>
 <body>
-    <p id="content">The nightwatchman</p>
+    <p id="content"></p>
 
 
 </body></html>
