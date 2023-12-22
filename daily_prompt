@@ -3,7 +3,7 @@
     <title>Challenge</title>
 </head>
 <body>
-    <p id="content"></p>
+    <p id="content">A lion</p>
 
 
 </body></html>
